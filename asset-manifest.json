@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/muhammadreza161/static/css/main.7e13c663.css",
-    "main.js": "/muhammadreza161/static/js/main.44a42d1b.js",
-    "static/media/muhammadreza-cv.pdf": "/muhammadreza161/static/media/muhammadreza-cv.380c21b06d2f8511ed78.pdf",
+    "main.css": "/muhammadreza161/static/css/main.2258a005.css",
+    "main.js": "/muhammadreza161/static/js/main.ff7a6b53.js",
+    "static/media/testimonial3.jpg": "/muhammadreza161/static/media/testimonial3.c51e55eecc0333b05928.jpg",
+    "static/media/testimonial1.jpg": "/muhammadreza161/static/media/testimonial1.1dbb372a8ee99b07f6c5.jpg",
+    "static/media/testimonial2.jpg": "/muhammadreza161/static/media/testimonial2.25b36a9645a4bb5dbd6b.jpg",
+    "static/media/muhammadreza-cv.pdf": "/muhammadreza161/static/media/muhammadreza-cv.83f5a292d59df76bb9ea.pdf",
     "static/media/profile.jpeg": "/muhammadreza161/static/media/profile.4a0c240499958dfd4b17.jpeg",
     "static/media/profile-port.jpeg": "/muhammadreza161/static/media/profile-port.8296f2bab531367b413d.jpeg",
+    "static/media/testimonial4.jpg": "/muhammadreza161/static/media/testimonial4.ac7b5d5cd265d4a3504a.jpg",
     "index.html": "/muhammadreza161/index.html",
-    "main.7e13c663.css.map": "/muhammadreza161/static/css/main.7e13c663.css.map",
-    "main.44a42d1b.js.map": "/muhammadreza161/static/js/main.44a42d1b.js.map"
+    "main.2258a005.css.map": "/muhammadreza161/static/css/main.2258a005.css.map",
+    "main.ff7a6b53.js.map": "/muhammadreza161/static/js/main.ff7a6b53.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e13c663.css",
-    "static/js/main.44a42d1b.js"
+    "static/css/main.2258a005.css",
+    "static/js/main.ff7a6b53.js"
   ]
 }
